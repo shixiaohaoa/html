@@ -1,0 +1,213 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.lan h1 {
+	margin-top: 5px;
+	padding-left: 10px;
+	padding-top: 20px;
+	background-color: #FFFFFF;
+	font-size: 35px;
+	height: 75px;
+}
+
+.shangping {
+	padding-top: 20px;
+	background-color: #D3D3D3;
+	width: 100%;
+	text-align: center;
+	margin-top: 3px;
+}
+
+.one {
+	background-color: #fff;
+	text-align: center;
+}
+
+.one1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	left: 50%;
+	margin-left: 115px;
+}
+
+.tow {
+	background-color: #fff;
+	text-align: center;
+}
+
+.tow1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	left: 50%;
+	margin-left: 115px;
+}
+
+.three {
+	background-color: #fff;
+	text-align: center;
+}
+
+.three1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+.four {
+	background-color: #fff;
+	text-align: center;
+}
+
+.four1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+.five {
+	background-color: #fff;
+	text-align: center;
+}
+
+.five1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+.six {
+	background-color: #fff;
+	text-align: center;
+}
+
+.six1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+.seven{
+	background-color: #fff;
+	text-align: center;
+}
+
+.seven1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+.eight {
+	background-color: #fff;
+	text-align: center;
+}
+
+.eight1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+.nine {
+	background-color: #fff;
+	text-align: center;
+}
+
+.nine1 {
+	width: 50%;
+	height: 20%;
+	border: 1px solid #000;
+	text-align: center;
+	margin-left: 115px;
+}
+
+
+.shangping ul::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.shangping li {
+	float: left;
+	width: 32%;
+	background-color: #fff;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	list-style: none;
+}
+
+.shangping li:nth-child(3n) {
+	margin-right: 0;
+}
+
+.shangping li figure {
+	border: 1px solid #D3D3D3;
+	padding: 10px;
+}
+
+.one1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.tow1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.three1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.four1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.five1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.six1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.seven1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.eight1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.nine1:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+.shangping figure{
+				box-shadow:1px 1px 5px #000;
+			}

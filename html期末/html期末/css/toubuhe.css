@@ -1,0 +1,54 @@
+.toubu{
+	height: 40px;
+	border-bottom:2px solid gray;
+	font-size: 16px;
+	position: relative;
+	background-color: #000000;
+}
+.toubu a{
+	color: white;
+}
+.shouye{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 3px;
+	top: 10px;
+}
+.shouye{
+	float: right;
+	height: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+.qita{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 3px;
+		top: 10px;
+}
+.hezuo{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 60px;
+		top: 10px;
+}
+.kaifa{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 160px;
+		top: 10px;
+}
+.toubu::after{
+	content: " ";
+	clear: both;
+}

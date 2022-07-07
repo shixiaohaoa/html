@@ -1,0 +1,94 @@
+.hangbiao{
+	height: 120px;
+	border-bottom: 4px solid gray;
+	font-size:20px ;
+	position: relative;
+	background-color:#000000 ;
+}
+.logo{
+	float: left;
+	height: 60px;
+	width: 240px;
+	position: absolute;
+	left: 45px;
+	bottom: 30px;
+}
+.changping{
+	padding: 2px;
+	float: right;
+	position: absolute;
+	left: 340px;
+	bottom: 50px;
+}
+.wenzi span{
+	display: none;
+}
+.changping:hover{
+	position: absolute;
+	bottom: 0px;
+}
+.changping:hover span{
+	background-color:white;
+	color: black;
+	display: block;
+}
+.xianka:hover span{
+	background-color: black;
+	color: white;
+	font-weight:bold ;
+}
+.chuliqi:hover span{
+	background-color: black;
+	color: white;
+	font-weight:bold ;
+}
+.goumai{
+	float: right;
+	position: absolute;
+	left: 430px;
+	bottom: 50px;
+}
+.wenzi2 span{
+	display: none;
+}
+.goumai:hover{
+	position: absolute;
+	bottom: 0px;
+}
+.goumai:hover span{
+	background-color:white;
+	color: black;
+	display: block;
+}
+.bijiben:hover span{
+	background-color: black;
+	color: white;
+	font-weight:bold ;
+}
+.taishiji:hover span{
+	background-color: black;
+	color: white;
+	font-weight:bold ;
+}
+.xieyi{
+	float: right;
+	margin-right: 10px;
+	position: absolute;
+	right: 130px;
+	bottom: 50px;
+}
+.guanyuwomen{
+	float: right;
+	margin-right: 10px;
+	position: absolute;
+	right: 3px;
+	bottom: 50px;
+}
+.hangbao::after{
+	content: " ";
+	clear: both;
+}
+span{
+	color: white;
+}
+

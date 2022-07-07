@@ -1,0 +1,171 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+			
+		.toubu{
+			height: 40px;
+			border-bottom:2px solid gray;
+			font-size: 16px;
+			position: relative;
+			background-color: #000000;
+		}
+		.toubu a{
+			color: white;
+		}
+		.shouye{
+	float: right;
+	height: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+.qita{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 3px;
+		top: 10px;
+}
+.hezuo{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 60px;
+		top: 10px;
+}
+.kaifa{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 160px;
+		top: 10px;
+}
+		.toubu::after{
+			content: " ";
+			clear: both;
+		}
+		.hangbiao{
+			height: 120px;
+			border-bottom: 4px solid gray;
+			font-size:20px ;
+			position: relative;
+			background-color:#000000 ;
+		}
+		.logo{
+			float: left;
+			height: 60px;
+			width: 240px;
+			position: absolute;
+			left: 45px;
+			bottom: 30px;
+		}
+		.changping{
+			padding: 2px;
+			float: right;
+			position: absolute;
+			left: 340px;
+			bottom: 50px;
+		}
+		.wenzi span{
+			display: none;
+		}
+		.changping:hover{
+			position: absolute;
+			bottom: 0px;
+		}
+		.changping:hover span{
+			background-color:white;
+			color: black;
+			display: block;
+		}
+		.xianka:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.chuliqi:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.goumai{
+			float: right;
+			position: absolute;
+			left: 430px;
+			bottom: 50px;
+		}
+		.wenzi2 span{
+			display: none;
+		}
+		.goumai:hover{
+			position: absolute;
+			bottom: 0px;
+		}
+		.goumai:hover span{
+			background-color:white;
+			color: black;
+			display: block;
+		}
+		.bijiben:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.taishiji:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.xieyi{
+			float: right;
+			position: absolute;
+			right: 130px;
+			bottom: 50px;
+		}
+		.guanyuwomen{
+			float: right;
+			position: absolute;
+			right: 3px;
+			bottom: 50px;
+		}
+		.hangbao::after{
+			content: " ";
+			clear: both;
+		}
+		span{
+			color: white;
+		}
+			
+		.lan h1{
+			margin-top: 5px;
+			padding-left: 10px;
+			padding-top: 20px;
+			background-color: #FFFFFF;
+			font-size: 35px;
+			height: 75px;
+		}
+		.neirong{
+			padding-top: 20px;
+			margin-left: 150px;
+			margin-right: 150px;
+			text-align: left;
+		}
+		.neirong h3{
+			margin-top: 10px;
+			font-size: 30px;
+		}
+		
+		}
+		.back{
+			background-color: #D3D3D3;
+		}
+		.foot{
+			margin-top: 20px;
+			font-size:1.5em;
+			text-align: center;
+		}

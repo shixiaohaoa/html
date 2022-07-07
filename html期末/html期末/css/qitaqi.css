@@ -1,0 +1,72 @@
+.ori h1 {
+	background-color: #fff;
+	font-size: 35px;
+	padding: 30px;
+	padding-left: 0px;
+}
+
+.ori1 {
+	width: 100%;
+	margin: 0;
+	padding-bottom: 600px;
+	background-image:url(../img/game1.jpg);
+	background-position: center center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+.
+
+.ori1 figure {
+	position: relative;
+	padding: 10px;
+}
+
+
+.ori1 figure figcaption {
+	color: #fff;
+	padding: 20px;
+	position: absolute;
+	right:11%;
+	bottom: 30%;
+	top: 30%;
+	left: 50%;
+}
+.ori1 h1{
+	padding-top: 50px;
+	font-family: "微软雅黑";
+	font-size: 120px;
+	border-bottom: 2px solid #FFFFFF;
+}
+.ori1 p{
+	font-size: 18px;
+}
+.yueduweiz h1{
+	padding: 30px;
+	padding-left: 0px;
+	font-size: 35px;
+	font-family: "黑体";
+	background-color: #fff;
+}
+.qitayoux{
+	background-color: darkred;
+}
+
+.qitayoux img{
+	width: 30%;
+	padding:30px;
+	transition: all .3s; 
+}
+
+.gh img:hover{
+	transform:translateY(-10px);
+	box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+.zs img:hover{
+	transform:translateY(-10px);
+	box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+.gd img:hover{
+	transform:translateY(-10px);
+	box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+

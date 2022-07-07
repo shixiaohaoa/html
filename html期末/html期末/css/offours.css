@@ -1,0 +1,142 @@
+.fafafafafa{
+	background-color: #FFFFFF;
+	text-align: center;
+}
+.ffffff{
+	padding: 10px;
+}
+.offours1 h1{
+	font-family: "黑体";
+	font-weight: bold;
+	
+}
+.offours1{
+	font-size: 40px;
+}
+
+.offours3 h2{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.offourstupi{
+	width: 60% ;
+	margin: 0 auto;
+	padding-bottom: 500px;
+	background-image: url(../img/pandeng.jpg);
+	background-position: center center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+.offourstupi figure {
+	position: relative;
+	padding: 10px;
+}
+
+.offourstupi figure figcaption {
+	color: #fff;
+	padding: 20px;
+	position: absolute;	
+	bottom: 30%;
+	top: 30%;
+	left: 10%;
+}
+.offourstupi h1{
+	padding-top: 50px;
+	font-family: "微软雅黑";
+	font-size: 120px;
+}
+.offours4 h2{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.fafafafafa .fffff3{
+	width: 60% ;
+	margin: 0 auto;
+	padding-bottom: 500px;
+	background-image: url(../img/kejigan.jpg);
+	background-position: center center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+.fafafafafa .fffff3 figure {
+	position: relative;
+	padding: 10px;
+}
+
+.fafafafafa .fffff3 figure figcaption {
+	padding: 20px;
+	position: absolute;	
+	top:10px ;
+	left: 20px;
+
+}
+.fafafafafa .fffff3 a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+	padding: 10px;
+	background-color: rgba(0,0,0,.5);
+	transition: all .5s; 
+}
+.fafafafafa .fffff3 a:hover{
+	border: 1px solid #FFFFFF;
+	background-color: rgba(255,255,255,.7);
+	color: #000000;
+}
+.fafafafafa .offours5 h2{
+	font-size: 50px;	
+	margin-bottom: 20px;
+}
+
+.fafafafafa .fffff4 li a{
+	text-decoration: none;
+	display: block;
+	color: #000000;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.fafafafafa .fffff4 figure {
+	position: relative;
+	padding: 10px;
+	padding-bottom: 120px;
+	border-bottom: none;
+}
+
+.fafafafafa .fffff4 figure img{
+	width: 100%;
+}
+.fafafafafa .fffff4 li {
+	padding: 20px;
+	border-bottom: 1px solid #000000;
+	transition: all 1s;
+	display: block;
+}
+.fafafafafa .fffff4 li:last-child{
+	border-bottom: none;
+}
+.fafafafafa .fffff4 a{
+	transition: all 1s;
+}
+.fafafafafa .fffff4 figure figcaption{
+	background-color: rgba(255,255,255,.5);
+	padding: 20px;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	border: 3px solid #FFFFFF;
+	transition: all 1s;
+	
+}
+.fafafafafa .fffff4 li:hover {
+	background-color: rgba(0,0,0,.6);
+	
+}
+.fafafafafa .fffff4 a:hover{
+	color: #FFFFFF;
+} 
+	.foot{
+			font-size:1.5em;
+			text-align: center;
+			background-color: white;
+		}

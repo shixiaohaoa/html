@@ -1,0 +1,231 @@
+*{
+			margin: 0;
+			padding: 0;
+			background-color: ;
+		}
+			
+		.toubu{
+			height: 40px;
+			border-bottom:2px solid gray;
+			font-size: 16px;
+			position: relative;
+			background-color: #000000;
+		}
+		.toubu a{
+			color: white;
+		}
+		.shouye{
+	float: right;
+	height: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+.qita{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 3px;
+		top: 10px;
+}
+.hezuo{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 60px;
+		top: 10px;
+}
+.kaifa{
+	float: right;
+	height: 20px;
+	margin-right: 10px;
+	position: absolute;
+	right: 160px;
+		top: 10px;
+}
+		.toubu::after{
+			content: " ";
+			clear: both;
+		}
+		.hangbiao{
+			height: 120px;
+			border-bottom: 4px solid gray;
+			font-size:20px ;
+			position: relative;
+			background-color:#000000 ;
+		}
+		.logo{
+			float: left;
+			height: 60px;
+			width: 240px;
+			position: absolute;
+			left: 45px;
+			bottom: 30px;
+		}
+		.changping{
+			padding: 2px;
+			float: right;
+			position: absolute;
+			left: 340px;
+			bottom: 50px;
+		}
+		.wenzi span{
+			display: none;
+		}
+		.changping:hover{
+			position: absolute;
+			bottom: 0px;
+		}
+		.changping:hover span{
+			background-color:white;
+			color: black;
+			display: block;
+		}
+		.xianka:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.chuliqi:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.goumai{
+			float: right;
+			position: absolute;
+			left: 430px;
+			bottom: 50px;
+		}
+		.wenzi2 span{
+			display: none;
+		}
+		.goumai:hover{
+			position: absolute;
+			bottom: 0px;
+		}
+		.goumai:hover span{
+			background-color:white;
+			color: black;
+			display: block;
+		}
+		.bijiben:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.taishiji:hover span{
+			background-color: black;
+			color: white;
+			font-weight:bold ;
+		}
+		.xieyi{
+			float: right;
+			position: absolute;
+			right: 130px;
+			bottom: 50px;
+		}
+		.guanyuwomen{
+			float: right;
+			position: absolute;
+			right: 3px;
+			bottom: 50px;
+		}
+		.hangbao::after{
+			content: " ";
+			clear: both;
+		}
+		span{
+			color: white;
+		}
+			
+		.lan h1{
+			
+			margin-top: 5px;
+			padding-left: 10px;
+			padding-top: 20px;
+			background-color: #FFFFFF;
+			font-size: 35px;
+			height: 75px;
+		}
+			
+		}
+		.shangping{
+				padding-top: 20px;
+				background-color: #D3D3D3;
+				width: 100%;
+				text-align: center;
+				margin-top: 3px;
+			}
+			.shangping ul{
+				padding: 30px;
+				background-color: #D3D3D3;
+				}
+			.shangping  ul::after{
+	          content: '';
+	          display: block;
+	          clear: both;
+            }
+            .shangping li{
+	          float: left;
+	          width: 32%;
+	          margin-right: 2%;
+	          background-color: #fff;
+	          list-style: none;
+            }
+
+            .shangping li:nth-child(3n){
+	          margin-right: 0px;
+            }
+            
+            .shangping img{
+            	width: 200px;
+            	height: 150px;
+            }
+           .shangping  li{
+           	text-align: center;
+           	}
+           
+            .shangping  li figure{
+	          border: 1px solid #D3D3D3;
+	          padding: 10px;
+            }
+			.one1 {
+			 	width: 50%;
+				border: 1px solid #000;
+				text-align: center;
+				left: 50%;
+				margin-left: 115px;
+			}			
+			.one1:hover{
+				color: #fff;
+				background-color: #000;
+			}
+			.tow1 {
+			 	width: 50%;
+				border: 1px solid #000;
+				text-align: center;
+				left: 50%;
+				margin-left: 115px;
+			}			
+			.tow1:hover{
+				color: #fff;
+				background-color: #000;
+			}
+			.three1 {
+			 	width: 50%;
+				border: 1px solid #000;
+				text-align: center;
+				left: 50%;
+				margin-left: 115px;
+			}			
+			.three1:hover{
+				color: #fff;
+				background-color: #000;
+			}
+			.shangping figure{
+				box-shadow:1px 1px 5px #000;
+			}
